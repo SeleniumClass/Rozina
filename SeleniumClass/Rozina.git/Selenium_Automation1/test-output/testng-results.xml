@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24811" started-at="2018-06-19T23:59:21Z" finished-at="2018-06-19T23:59:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24811" started-at="2018-06-19T23:59:21Z" finished-at="2018-06-19T23:59:46Z">
+      <class name="com.testing.GCRShop">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.testing.GCRShop@80169cf]" name="beforeClass" is-config="true" duration-ms="5089" started-at="2018-06-19T23:59:21Z" finished-at="2018-06-19T23:59:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.testing.GCRShop@80169cf]" name="test1" duration-ms="14711" started-at="2018-06-19T23:59:26Z" finished-at="2018-06-19T23:59:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.testing.GCRShop@80169cf]" name="afterClass" is-config="true" duration-ms="5005" started-at="2018-06-19T23:59:41Z" finished-at="2018-06-19T23:59:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.testing.GCRShop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
